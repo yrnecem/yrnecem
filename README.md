@@ -1,8 +1,7 @@
 ### Hi there, I'm Ecem 👋
 
 <!--
-**yrnecem/yrnecem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**yrnecem/yrnecem** 
 
 
 - 🔭 I’m currently working on Vs Code
